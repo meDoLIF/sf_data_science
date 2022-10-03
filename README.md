@@ -1,2 +1,26 @@
-# sf_data_science
-SF homework
+# Данный репозиторий посвящен моему обучению на платформе Skillfactory по специальности Data Science
+
+## Краткое описание [проектов](https://github.com/meDoLIF/sf_data_science/tree/main/Projects)
+
+### [Угадай число](https://github.com/meDoLIF/sf_data_science/tree/main/Projects/PROJECT-0.%20Guess%20the%20number)
+
+**Задача проекта:** на Python написать алгоритм, который позволяет за минимальное число попыток угадать, какое число загадал компьютер
+
+**Инструментарий:** Python и библиотека NumPy
+
+### [Анализ вакансий на hh.ru](https://github.com/meDoLIF/sf_data_science/tree/main/Projects/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B8%D0%B7%20HeadHunter)
+
+**Задача проекта:** 
+
+1) Произвести очистку данных и обогащение новыми фичами. 
+2) Провести первичный анализ
+3) Сделать визуализацию на основе найденных инсайтов
+
+**Инструментарий:** 
+
+1) Python 
+2) pandas
+3) numpy
+4) matplotlib
+5) seaborn
+6) plotly
