@@ -18,7 +18,19 @@
 
 **Инструментарий:** 
 
-1) Python 
+1) pandas
+2) numpy
+3) matplotlib
+4) seaborn
+5) plotly
+
+### [Прогнозирование рейтинга отеля на Booking](https://github.com/meDoLIF/sf_data_science/tree/main/Projects/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering)
+
+**Задача проекта** Произвести очистку данных для обучения модели методом случайного леса, для достижения наилучшего показателя MAPE
+
+**Инструментарий:** 
+
+1) NLTK
 2) pandas
 3) numpy
 4) matplotlib
