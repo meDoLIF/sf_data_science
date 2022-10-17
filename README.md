@@ -36,3 +36,19 @@
 4) matplotlib
 5) seaborn
 6) plotly
+
+### [Подбор Гиперпараметров](https://github.com/meDoLIF/sf_data_science/tree/main/Projects/Project-4.1.%20%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%20%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2)
+
+**Задача проекта:** 
+
+Улучишить метрику F1-score за счет использования различных методов оптимизации гиперпараметров
+
+**Инструментарий:** 
+
+1) GridSearchCV
+2) RandomizedSearchCV
+3) HyperOpt
+4) Optuna
+5) LogisticRegression
+6) RandomForestClassifier
+
